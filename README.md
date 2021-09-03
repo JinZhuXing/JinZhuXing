@@ -1,4 +1,11 @@
-### Hi there 👋
+### JinZhuXing
+
+Hello, everyone.
+I am a engineer at SYFP.
+
+I am studying Machine Learning and other techniques.
+
+Thank you for everyone.
 
 <!--
 **JinZhuXing/JinZhuXing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
