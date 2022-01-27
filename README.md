@@ -1,9 +1,9 @@
 ### JinZhuXing
 
 Hello, everyone.
-I am a engineer at SYFP.
+I am an engineer at SYFP.
 
-I am studying Machine Learning and other techniques.
+🌱 I am studying Machine Learning and other techniques.
 
 Thank you for everyone.
 
